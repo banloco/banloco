@@ -65,5 +65,5 @@ AI Tooling     Claude Code · Cursor · GitHub Copilot · Replit
 
 <p align="center">
   <em>Based in Cotonou · Available for relocation to Canada · Work permit sponsorship welcomed</em><br/>
-  <a href="mailto:christ.banidje@epitech.eu">christ.banidje@epiteh.eu</a>
+  <a href="mailto:christ.banidje@epitech.eu">christ.banidje@epitech.eu</a>
 </p>
